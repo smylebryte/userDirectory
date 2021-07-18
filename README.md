@@ -10,3 +10,6 @@ This application allows you to view non-sensitive data about other employees in 
  - React
  - JavaScript
  - Node
+
+## Deployed Application
+https://smylebryte.github.io/userDirectory2/
